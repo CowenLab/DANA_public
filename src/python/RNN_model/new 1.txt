@@ -1,0 +1,2 @@
+Hi everyone, 
+With the clear success that we've been having with the Neuropixels probes, it's time for us all to get 'next level' in spike sorting using the kilosort3 and Phy packages. It's not too much different than MClust, but it is different.
